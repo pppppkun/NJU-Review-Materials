@@ -1,0 +1,9 @@
+
+Msquid:S00108$")Either remove or fill this block of code.(ÖØ‚÷ÿÿÿÿÿ8½Î½²¬-
+osquid:S3008"RRename this field "DEFAULT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èáéF8‹ı—²¬-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Á‰ŒÊÿÿÿÿÿ8Ê¼¸²¬-
+rsquid:S1450
+"TRemove the "index" field and declare it as a local variable in the relevant methods.(ÕÖó8Æî†²¬-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Ğ²Äÿıÿÿÿÿ8ãÎ²²¬-
